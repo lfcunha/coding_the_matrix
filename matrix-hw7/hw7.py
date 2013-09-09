@@ -10,6 +10,7 @@ from matutil import listlist2mat
 from math import sqrt
 from mat import transpose
 from matutil import mat2rowdict
+import QR
 
 from triangular import *
 

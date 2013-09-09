@@ -21,10 +21,10 @@
     <file path="/machine_learning_lab.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378706907888" ignored="false" />
     <file path="$PROJECT_DIR$/../matrix-machine_learning_lab/cancer_data.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378697419645" ignored="false" />
     <file path="/Python Console" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378706732908" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix-hw7/hw7.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378708343959" ignored="false" />
-    <file path="/hw7.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378708043831" ignored="false" />
-    <file path="$PROJECT_DIR$/../matrix-hw7/orthonormalization.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378707795817" ignored="false" />
-    <file path="/orthonormalization.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378707795817" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix-hw7/hw7.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378709425226" ignored="false" />
+    <file path="/hw7.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378708782398" ignored="false" />
+    <file path="$PROJECT_DIR$/../matrix-hw7/orthonormalization.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378709485809" ignored="false" />
+    <file path="/orthonormalization.py" changelist="f596cb5d-46fc-410a-9710-c85e6c20acf8" time="1378709476411" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +219,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1900" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />

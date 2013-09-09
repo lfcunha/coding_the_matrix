@@ -4,8 +4,8 @@
     <list default="true" id="90226340-59bc-419f-9ce7-379eecc58cac" name="Default" comment="" />
     <ignored path="matrix-hw7.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/hw7.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378708043832" ignored="false" />
-    <file path="/orthonormalization.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378707795818" ignored="false" />
+    <file path="/hw7.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378708782398" ignored="false" />
+    <file path="/orthonormalization.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378709476411" ignored="false" />
     <file path="/Python Console" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378706732908" ignored="false" />
     <file path="$PROJECT_DIR$/../matrix-machine_learning_lab/machine_learning_lab.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378706928029" ignored="false" />
     <file path="/machine_learning_lab.py" changelist="90226340-59bc-419f-9ce7-379eecc58cac" time="1378706907888" ignored="false" />
@@ -28,10 +28,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="hw7.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="hw7.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="161" column="52" selection-start="4673" selection-end="4673" vertical-scroll-proportion="0.84745765">
+            <state line="43" column="11" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="e#101#144#0" expanded="true" />
               </folding>
@@ -39,10 +39,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="orthonormalization.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="QR.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QR.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="4" selection-start="157" selection-end="288" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orthonormalization.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/orthonormalization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="32" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="604" selection-end="604" vertical-scroll-proportion="0.56122446">
               <folding>
                 <element signature="e#0#62#0" expanded="true" />
               </folding>
@@ -69,8 +80,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/orthonormalization.py" />
         <option value="$PROJECT_DIR$/hw7.py" />
+        <option value="$PROJECT_DIR$/orthonormalization.py" />
       </list>
     </option>
   </component>
@@ -258,17 +269,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1900" height="1040" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973032" sideWeight="0.670282" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973032" sideWeight="0.6695652" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33043477" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -347,20 +358,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/orthonormalization.py">
+    <entry file="file://$PROJECT_DIR$/QR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="32" selection-start="637" selection-end="637" vertical-scroll-proportion="0.0">
+        <state line="5" column="4" selection-start="157" selection-end="288" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#62#0" expanded="true" />
+            <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="161" column="52" selection-start="4673" selection-end="4673" vertical-scroll-proportion="0.84745765">
+        <state line="43" column="11" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#101#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orthonormalization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="604" selection-end="604" vertical-scroll-proportion="0.56122446">
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
           </folding>
         </state>
       </provider>
